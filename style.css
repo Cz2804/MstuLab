@@ -1,0 +1,66 @@
+body {
+    font-family: "Berlin Sans FB", serif;
+    font-size: 16px;
+    color: black;
+    background-color: white;
+    margin: center;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.up {
+    width: 100%;
+    background-color: #e4d0aa;
+    display: block;
+    color: black;
+}
+
+.form {
+    max-width: 200px;
+    padding: 40px;
+    margin: 50px auto;
+    border: 4px groove #e4d0aa;
+}
+
+.input {
+    display: block;
+    width: 100%;
+    padding: 8px 10px;
+    margin-bottom: 10px;
+    background-color: white;
+    border: 1px solid #e4d0aa;
+
+    font-family: "Courier New", monospace;
+    font-size: 16px;
+}
+
+.btn {
+    display: block;
+    width: 100%;
+    padding: 8px 10px;
+
+    border: 0;
+    background-color: #e4d0aa;
+    cursor: pointer;
+
+    font-family: "Berlin Sans FB", serif;
+    font-size: 16px;
+    color: black;
+}
+
+.check {
+    text-align: center;
+    margin: auto;
+}
+.pip {
+ text-align: center;
+    margin: auto;
+}
+
+img {
+    display: flex;
+    text-align: center;
+    margin: auto;
+}
